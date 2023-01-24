@@ -1,4 +1,4 @@
-### Hello there 👋 (~GENERAL KENOBI~)
+### Hello there 👋 (~ GENERAL KENOBI ~)
 
 <!--
   My name is Gavin Hatch.
