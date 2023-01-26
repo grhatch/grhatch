@@ -5,5 +5,5 @@
   (I'm also interested in actuarial science)
 
 - 🔭 I’m currently working on a mobile app for my company's clients!
-- 🌱 I’m currently learning many data science concepts including machine learning and model making!
-- ⚡ Fun fact: I LOVE Star Wars! 
+- 🌱 I’m currently learning many data science concepts including machine learning and modeling data!
+- ⚡ Fun fact: I LOVE Star Wars, and I sing in the BYU Men's Chorus!
